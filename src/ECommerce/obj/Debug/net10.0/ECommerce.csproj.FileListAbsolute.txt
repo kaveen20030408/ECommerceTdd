@@ -9,3 +9,4 @@ C:\Users\KAVEEN SASMINA\Desktop\Testing\ECommerceTdd\src\ECommerce\obj\Debug\net
 C:\Users\KAVEEN SASMINA\Desktop\Testing\ECommerceTdd\src\ECommerce\obj\Debug\net10.0\refint\ECommerce.dll
 C:\Users\KAVEEN SASMINA\Desktop\Testing\ECommerceTdd\src\ECommerce\obj\Debug\net10.0\ECommerce.pdb
 C:\Users\KAVEEN SASMINA\Desktop\Testing\ECommerceTdd\src\ECommerce\obj\Debug\net10.0\ref\ECommerce.dll
+C:\Users\KAVEEN SASMINA\Desktop\Testing\ECommerceTdd\src\ECommerce\obj\Debug\net10.0\ECommerce.sourcelink.json

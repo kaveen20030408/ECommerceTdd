@@ -1,17 +1,20 @@
 using ECommerce.Models;
+using ECommerce.Interfaces;
 
 namespace ECommerce.Services;
 
 public class Cart
 {
     private readonly Catalog _catalog;
+    private readonly InventoryService? _inventoryService;
     private readonly List<CartItem> _items = new();
 
     public IReadOnlyList<CartItem> Items => _items;
 
-    public Cart(Catalog catalog)
+    public Cart(Catalog catalog, InventoryService? inventoryService = null)
     {
         _catalog = catalog;
+        _inventoryService = inventoryService;
     }
 
     public void AddItem(string sku, int quantity)
@@ -22,6 +25,13 @@ public class Cart
         var product = _catalog.GetBySku(sku);
         if (product == null)
             throw new InvalidOperationException("Product not found in catalog.");
+
+        if (_inventoryService != null)
+        {
+            var available = _inventoryService.GetAvailable(sku);
+            if (quantity > available)
+                throw new InvalidOperationException("Insufficient inventory available.");
+        }
 
         var existingItem = _items.FirstOrDefault(i => i.Product.Sku == sku);
 

@@ -98,3 +98,4 @@ C:\Users\KAVEEN SASMINA\Desktop\Testing\ECommerceTdd\tests\ECommerce.Tests\obj\D
 C:\Users\KAVEEN SASMINA\Desktop\Testing\ECommerceTdd\tests\ECommerce.Tests\obj\Debug\net10.0\ECommerce.Tests.pdb
 C:\Users\KAVEEN SASMINA\Desktop\Testing\ECommerceTdd\tests\ECommerce.Tests\obj\Debug\net10.0\ECommerce.Tests.genruntimeconfig.cache
 C:\Users\KAVEEN SASMINA\Desktop\Testing\ECommerceTdd\tests\ECommerce.Tests\obj\Debug\net10.0\ref\ECommerce.Tests.dll
+C:\Users\KAVEEN SASMINA\Desktop\Testing\ECommerceTdd\tests\ECommerce.Tests\obj\Debug\net10.0\ECommerce.Tests.sourcelink.json
