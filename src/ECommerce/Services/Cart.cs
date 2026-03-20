@@ -6,12 +6,12 @@ namespace ECommerce.Services;
 public class Cart
 {
     private readonly Catalog _catalog;
-    private readonly InventoryService? _inventoryService;
+    private readonly IInventoryService? _inventoryService;
     private readonly List<CartItem> _items = new();
 
     public IReadOnlyList<CartItem> Items => _items;
 
-    public Cart(Catalog catalog, InventoryService? inventoryService = null)
+    public Cart(Catalog catalog, IInventoryService? inventoryService = null)
     {
         _catalog = catalog;
         _inventoryService = inventoryService;

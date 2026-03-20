@@ -1,6 +1,6 @@
 namespace ECommerce.Interfaces;
 
-public interface InventoryService
+public interface IInventoryService
 {
     int GetAvailable(string sku);
 }

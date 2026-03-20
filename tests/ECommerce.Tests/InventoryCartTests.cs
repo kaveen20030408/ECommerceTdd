@@ -7,7 +7,7 @@ namespace ECommerce.Tests;
 
 public class InventoryCartTests
 {
-    private class FakeInventoryService : InventoryService
+    private class FakeInventoryService : IInventoryService
     {
         private readonly Dictionary<string, int> _stock = new();
 
