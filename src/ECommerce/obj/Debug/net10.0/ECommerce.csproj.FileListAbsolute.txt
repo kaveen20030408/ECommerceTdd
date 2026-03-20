@@ -1,0 +1,11 @@
+C:\Users\KAVEEN SASMINA\Desktop\Testing\ECommerceTdd\src\ECommerce\bin\Debug\net10.0\ECommerce.deps.json
+C:\Users\KAVEEN SASMINA\Desktop\Testing\ECommerceTdd\src\ECommerce\bin\Debug\net10.0\ECommerce.dll
+C:\Users\KAVEEN SASMINA\Desktop\Testing\ECommerceTdd\src\ECommerce\bin\Debug\net10.0\ECommerce.pdb
+C:\Users\KAVEEN SASMINA\Desktop\Testing\ECommerceTdd\src\ECommerce\obj\Debug\net10.0\ECommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAVEEN SASMINA\Desktop\Testing\ECommerceTdd\src\ECommerce\obj\Debug\net10.0\ECommerce.AssemblyInfoInputs.cache
+C:\Users\KAVEEN SASMINA\Desktop\Testing\ECommerceTdd\src\ECommerce\obj\Debug\net10.0\ECommerce.AssemblyInfo.cs
+C:\Users\KAVEEN SASMINA\Desktop\Testing\ECommerceTdd\src\ECommerce\obj\Debug\net10.0\ECommerce.csproj.CoreCompileInputs.cache
+C:\Users\KAVEEN SASMINA\Desktop\Testing\ECommerceTdd\src\ECommerce\obj\Debug\net10.0\ECommerce.dll
+C:\Users\KAVEEN SASMINA\Desktop\Testing\ECommerceTdd\src\ECommerce\obj\Debug\net10.0\refint\ECommerce.dll
+C:\Users\KAVEEN SASMINA\Desktop\Testing\ECommerceTdd\src\ECommerce\obj\Debug\net10.0\ECommerce.pdb
+C:\Users\KAVEEN SASMINA\Desktop\Testing\ECommerceTdd\src\ECommerce\obj\Debug\net10.0\ref\ECommerce.dll
